@@ -1,4 +1,4 @@
-<footer id="footer" class="footer color-bg">
+/*<footer id="footer" class="footer color-bg">
 	  <div class="links-social inner-top-sm">
         <div class="container">
             <div class="row">
@@ -105,5 +105,6 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </div><!-- /.links-social -->
+	*/
 
     
