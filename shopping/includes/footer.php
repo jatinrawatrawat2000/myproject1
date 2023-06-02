@@ -9,14 +9,14 @@
         <div class="logo">
             <a href="index.php">
                 
-<h3>Shopping Portal</h3>
+<h3> Book Barter</h3>
             </a>
         </div><!-- /.logo -->
     
     </div><!-- /.footer-logo -->
 
      <div class="module-body m-t-20">
-        <p class="about-us"> Nam libero tempore, cum soluta nobis est ses  eligendi optio cumque cum soluta nobis est ses  eligendi optio cumque.</p>
+        <p class="about-us"> An Book Barter System will allow user to rent and exchange the Required book</p>
     
         <div class="social-icons">
             
@@ -70,7 +70,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>New Delhi, Delhi</p>
+                    <p>Smvitm,Udupi</p>
                 </div>
             </li>
 
@@ -82,7 +82,8 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>(011) 000000000000<br>(011) 000000000000</p>
+                    <p>+9186193977852<br>
+                    +919140889565</p>
                 </div>
             </li>
 
@@ -94,7 +95,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="#">info@phpgurukul.com</a></span>
+                    <span><a href="#">info@bookbarter.com</a></span>
                 </div>
             </li>
               
@@ -105,5 +106,6 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </div><!-- /.links-social -->
+	
 
     
